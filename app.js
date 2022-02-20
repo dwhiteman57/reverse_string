@@ -6,5 +6,4 @@ function firstReverse(str) {
 }
 
 
-
 console.log(firstReverse('I love code'))
